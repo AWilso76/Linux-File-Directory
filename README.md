@@ -13,21 +13,21 @@ The tasks include:
 # Listing Files in the Home Directory
 Displaying the contents of the home directory to understand the structure and files present.
 
-<img width="1000" alt="image" src="https://imgur.com/nVn0pZR">
+<img width="1000" alt="image" src="https://i.imgur.com/nVn0pZR.png?1">
 ---
 
 
 # Navigating Directories
 Changing from the home directory to another directory, showcasing directory traversal commands.
 
-<img width="1000" alt="image" src="https://imgur.com/d7dvnks">
+<img width="1000" alt="image" src="https://i.imgur.com/d7dvnks.png">
 ---
 
 
 # Working with Hidden Files
 Listing hidden files alongside regular files and changing their permissions to adjust access as required.
 
-<img width="1000" alt="image" src="https://imgur.com/IEPyvcu">
+<img width="1000" alt="image" src="https://i.imgur.com/u4vsC8X.png">
 ---
 
 
