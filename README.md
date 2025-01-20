@@ -18,7 +18,7 @@ Displaying the contents of the home directory (including hidden files} to unders
 
 
 # Navigating Directories
-Changing from the home directory to another directory, showcasing directory traversal commands.
+Changing from the home directory to another directory, listing all files, showcasing directory traversal commands.
 
 <img width="1000" alt="image" src="https://i.imgur.com/d7dvnks.png">
 ---
