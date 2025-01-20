@@ -28,18 +28,20 @@ Changing from the home directory to another directory, showcasing directory trav
 Listing hidden files alongside regular files and changing their permissions to adjust access as required.
 
 <img width="1000" alt="image" src="https://i.imgur.com/u4vsC8X.png">
+
+<img width="1000" alt="image" src="https://i.imgur.com/2Jpt6zf.png">
 ---
 
 
 # Changing Permissions for a Directory
 Updating permissions for a directory, ensuring appropriate access control for users and groups.
 
-<img width="1000" alt="image" src="https://imgur.com/2Jpt6zf">
+<img width="1000" alt="image" src="https://i.imgur.com/IEPyvcu.png">
 ---
 
 
 # Managing File Permissions
 Modifying read, write, and execute permissions for the owner and group of selected files, demonstrating fine-grained access control.
 
-<img width="51000" alt="image" src="https://imgur.com/VedwRly">
+<img width="51000" alt="image" src="https://i.imgur.com/VedwRly.png">
 
