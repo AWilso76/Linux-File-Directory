@@ -11,7 +11,7 @@ The tasks include:
 ---
 
 # Listing Files in the Home Directory
-Displaying the contents of the home directory to understand the structure and files present.
+Displaying the contents of the home directory (including hidden files} to understand the structure and files present.
 
 <img width="1000" alt="image" src="https://i.imgur.com/nVn0pZR.png?1">
 ---
@@ -27,21 +27,19 @@ Changing from the home directory to another directory, showcasing directory trav
 # Working with Hidden Files
 Listing hidden files alongside regular files and changing their permissions to adjust access as required.
 
-<img width="1000" alt="image" src="https://i.imgur.com/u4vsC8X.png">
+<img width="1000" alt="image" src="https://i.imgur.com/IEPyvcu.png">
+---
+
+
+# Changing Permissions for a Directory
+Updating permissions for a directory, ensuring appropriate access control for owner and group.
 
 <img width="1000" alt="image" src="https://i.imgur.com/2Jpt6zf.png">
 ---
 
 
-# Changing Permissions for a Directory
-Updating permissions for a directory, ensuring appropriate access control for users and groups.
-
-<img width="1000" alt="image" src="https://i.imgur.com/IEPyvcu.png">
----
-
-
 # Managing File Permissions
-Modifying read, write, and execute permissions for the owner and group of selected files, demonstrating fine-grained access control.
+Modifying read, write, and execute permissions for the owner of selected files, demonstrating fine-grained access control.
 
 <img width="51000" alt="image" src="https://i.imgur.com/VedwRly.png">
 
