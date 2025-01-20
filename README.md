@@ -25,21 +25,21 @@ Changing from the home directory to another directory, showcasing directory trav
 
 
 # Working with Hidden Files
-Listing hidden files alongside regular files and changing their permissions to adjust access as required.
+Listing hidden files alongside regular files and removing the "write" permission from owner and group. Added the "read" permission to all "others", to adjust access as required.
 
 <img width="1000" alt="image" src="https://i.imgur.com/IEPyvcu.png">
 ---
 
 
 # Changing Permissions for a Directory
-Updating permissions for a directory, ensuring appropriate access control for owner and group.
+Updating permissions for a directory, ensuring appropriate access control for "group" by removing the "execute" permission.
 
 <img width="1000" alt="image" src="https://i.imgur.com/2Jpt6zf.png">
 ---
 
 
 # Managing File Permissions
-Modifying read, write, and execute permissions for the owner of selected files, demonstrating fine-grained access control.
+Modifying the write permission for the owner of "project_k.txt" file, demonstrating fine-grained access control.
 
 <img width="51000" alt="image" src="https://i.imgur.com/VedwRly.png">
 
