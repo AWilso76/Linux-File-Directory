@@ -34,7 +34,7 @@ Listing hidden files alongside regular files and removing the "write" permission
 # Changing Permissions for a Directory
 Updating permissions for a directory, ensuring appropriate access control for "group" by removing the "execute" permission.
 
-<img width="1000" alt="image" src="https://i.imgur.com/2Jpt6zf.png">
+<img width="1000" alt="image" src=https://i.imgur.com/UladhrK.png[/img>
 ---
 
 
