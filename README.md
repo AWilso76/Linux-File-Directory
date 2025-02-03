@@ -25,7 +25,7 @@ Changing from the home directory to the "projects" directory, listing all files 
 
 
 # Working with Hidden Files
-Listing hidden file ".project_x.txt" with all files and removed the "write" permission for "owner" and "group" on hidden file. Added the "read" permission to all "others", to adjust access as required for hidden file.
+Listing hidden file ".project_x.txt" with all files and removed the "write" permission for "owner" and "group" on hidden file. Added the "read" permission to "group", to adjust access as required for hidden file.
 
 <img width="1000" alt="image" src="https://i.imgur.com/IEPyvcu.png">
 ---
