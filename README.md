@@ -39,7 +39,7 @@ Updated permissions for the directory "drafts", ensuring appropriate access cont
 
 
 # Managing File Permissions
-Modified the "write" permission for the "owner" of "project_k.txt" file, demonstrating fine-grained access control.
+Removed the "write" permission for all "others" of "project_k.txt" file, demonstrating fine-grained access control.
 
 <img width="51000" alt="image" src="https://i.imgur.com/VedwRly.png">
 
