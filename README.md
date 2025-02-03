@@ -11,35 +11,35 @@ The tasks include:
 ---
 
 # Listing Files in the Home Directory
-Displaying the contents of the home directory (including hidden files} to understand the structure and files present.
+Displaying the contents of the home directory (including hidden files} to understand the structure files and other directories present.
 
 <img width="1000" alt="image" src="https://i.imgur.com/nVn0pZR.png?1">
 ---
 
 
 # Navigating Directories
-Changing from the home directory to another directory, listing all files, showcasing directory traversal commands.
+Changing from the home directory to the "projects" directory, listing all files in the "projects" directory, showcasing directory traversal commands.
 
 <img width="1000" alt="image" src="https://i.imgur.com/d7dvnks.png">
 ---
 
 
 # Working with Hidden Files
-Listing hidden files alongside regular files and removing the "write" permission from owner and group. Added the "read" permission to all "others", to adjust access as required.
+Listing hidden file ".project_x.txt" with all files and removed the "write" permission for "owner" and "group" on hidden file. Added the "read" permission to all "others", to adjust access as required for hidden file.
 
 <img width="1000" alt="image" src="https://i.imgur.com/IEPyvcu.png">
 ---
 
 
 # Changing Permissions for a Directory
-Updating permissions for a directory, ensuring appropriate access control for "group" by removing the "execute" permission.
+Updated permissions for the directory "drafts", ensuring appropriate access control for "group" by removing the "execute" permission.
 
 <img width="1000" alt="image" src=https://i.imgur.com/UladhrK.png[/img>
 ---
 
 
 # Managing File Permissions
-Modifying the write permission for the owner of "project_k.txt" file, demonstrating fine-grained access control.
+Modified the "write" permission for the "owner" of "project_k.txt" file, demonstrating fine-grained access control.
 
 <img width="51000" alt="image" src="https://i.imgur.com/VedwRly.png">
 
